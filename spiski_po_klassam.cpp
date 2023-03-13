@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <string>
 #include <vector>
-#define MAX_SIZE 1e5
+
 
 using namespace std;
 
